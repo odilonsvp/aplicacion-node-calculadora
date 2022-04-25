@@ -11,6 +11,3 @@ Aplicacion en Node.js que genera archivos de tabla de multiplicar con tres posib
 ```
 <br/>
 
-## practica final
-
-![filtros](../../Curso%20de%20Node.js/03-bases-node/evidencia/aplicacion_tabla_de_multiplicar.PNG "filtros")
